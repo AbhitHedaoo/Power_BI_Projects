@@ -50,6 +50,12 @@ It provides insights into sales performance across different channels, products,
 3. Use filters to explore insights
 
 ## Images
+<img width="1918" height="921" alt="image" src="https://github.com/user-attachments/assets/5453e712-5d6d-41f6-8197-e7714048ff4f" />
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/a98cff97-d41b-41d8-9743-0dbae8aa55a5" />
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/abb669d8-137f-4013-9f4b-e4e493579ae0" />
+
+
+
     
 ## Note
 
