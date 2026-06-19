@@ -46,10 +46,7 @@ This project was built by following a tutorial from the Data Tutorial YouTube ch
 
 <img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/e8c5a857-4590-40b3-97cf-b6ceb27794e0" />
 <img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/5edce4bb-2d12-43a8-8ad1-68e28b90ceb8" />
-<img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/f9a8aff9-3972-4e96-ae66-41d6e282f471" />
-
-
-
+<img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/be5bb1fb-d3bd-4754-853e-9b646d53f7f9" />
 
 ## 📌 Note
 
