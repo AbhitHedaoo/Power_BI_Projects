@@ -49,6 +49,8 @@ It provides insights into sales performance across different channels, products,
 2. Open in Power BI Desktop
 3. Use filters to explore insights
 
+## Images
+    
 ## Note
 
 This project demonstrates practical implementation of business intelligence concepts using Power BI.
