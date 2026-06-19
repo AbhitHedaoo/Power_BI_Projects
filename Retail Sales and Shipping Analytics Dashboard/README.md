@@ -49,6 +49,12 @@ It provides insights into sales performance, customer demographics, and shipping
 2. Open in Power BI Desktop
 3. Use filters and visuals to explore insights
 
+## Images
+
+<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/03277cbf-5e66-44aa-b404-2cb16d7e1d48" />
+<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/83c29c4f-c6bd-430d-8a02-bac5fc5a8fc6" />
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/6fade8f6-32a2-4727-944f-b65268402027" />
+
 ## Note
 
 This project demonstrates practical business intelligence and data analysis using Power BI.
