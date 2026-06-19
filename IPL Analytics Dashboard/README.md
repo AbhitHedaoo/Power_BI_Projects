@@ -42,6 +42,15 @@ This project was built by following a tutorial from the Data Tutorial YouTube ch
 2. Open it in Power BI Desktop
 3. Explore the dashboard using filters
 
+## Images
+
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/e8c5a857-4590-40b3-97cf-b6ceb27794e0" />
+<img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/5edce4bb-2d12-43a8-8ad1-68e28b90ceb8" />
+<img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/f9a8aff9-3972-4e96-ae66-41d6e282f471" />
+
+
+
+
 ## 📌 Note
 
 This project is created for learning purposes and demonstrates practical implementation of Power BI.
